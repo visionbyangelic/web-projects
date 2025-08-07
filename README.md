@@ -44,8 +44,7 @@ Basic layout for a web3 decentralized application.
 ## 🛠️ Tech Stack
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)  
-- Canvas (for animations)
+- JavaScript 
 
 ---
 
