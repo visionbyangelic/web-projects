@@ -21,6 +21,12 @@ Detects and displays browser/user-agent data using JavaScript.
 ### 🎆 [Fireworks](https://github.com/visionbyangelic/fireworks)  
 A calming fireworks animation built with canvas and JS.
 
+### 🎇 [Fireworks 2](https://github.com/visionbyangelic/fireworks2)  
+Another version of the fireworks effect, possibly with modified visuals or performance tweaks.
+
+### 🔄 [Reversed Fireworks](https://github.com/visionbyangelic/reversed-fireworks-)  
+An experimental twist on fireworks — possibly reversed animation or reverse-logic particles.
+
 ### 🔒 [Website1](https://github.com/visionbyangelic/website1)  
 Login and registration page mockup with basic form design.
 
@@ -38,6 +44,9 @@ Experimental physics-inspired visual project.
 
 ### 🌐 [Dapp](https://github.com/visionbyangelic/dapp)  
 Basic layout for a web3 decentralized application.
+
+### 🤖 [Uleo](https://github.com/visionbyangelic/uleo)  
+A custom project inspired by UBA's Leo chatbot — built to explore personal assistant bot UX.
 
 ---
 
